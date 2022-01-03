@@ -19,3 +19,9 @@ Menambah id produk ke dalam path
 ### Intro
 
 Mengambil ID dari URL
+
+## 120. Loading Product Detail Data
+
+### Intro
+
+Mengambil detail produk
