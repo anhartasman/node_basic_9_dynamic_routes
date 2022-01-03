@@ -1,1 +1,16 @@
-[{"title":"A book","imageUrl":"https://i.picsum.photos/id/2/300/300.jpg?hmac=18v9hYebAqcHuhqDo_PgGIHxZ5Ay-8Di7TqUUS5ZvXY","description":"buku bagus","price":"3500"},{"title":"cara bisnis","imageUrl":"https://i.picsum.photos/id/3/300/300.jpg?hmac=RT2JK6MzdIgNIWoIj61uPcz8aOSOi3lu2vhnwOxs7lY","description":"buku great","price":"50000"}]
+[
+  {
+    "id": "1",
+    "title": "A book",
+    "imageUrl": "https://i.picsum.photos/id/2/300/300.jpg?hmac=18v9hYebAqcHuhqDo_PgGIHxZ5Ay-8Di7TqUUS5ZvXY",
+    "description": "buku bagus",
+    "price": "3500"
+  },
+  {
+    "id": "2",
+    "title": "cara bisnis",
+    "imageUrl": "https://i.picsum.photos/id/3/300/300.jpg?hmac=RT2JK6MzdIgNIWoIj61uPcz8aOSOi3lu2vhnwOxs7lY",
+    "description": "buku great",
+    "price": "50000"
+  }
+]
