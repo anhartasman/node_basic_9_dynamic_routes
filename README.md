@@ -13,3 +13,9 @@ Persiapan
 ### Intro
 
 Menambah id produk ke dalam path
+
+## 119. Extracting Dynamic Params
+
+### Intro
+
+Mengambil ID dari URL
