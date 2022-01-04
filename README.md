@@ -55,3 +55,9 @@ Menggunakan parameter query
 ### Intro
 
 Menampilkan data produk pada form edit
+
+## 126. Linking to the Edit Page
+
+### Intro
+
+Menghubungkan ke halaman edit
