@@ -67,3 +67,9 @@ Menghubungkan ke halaman edit
 ### Intro
 
 Mengubah data produk
+
+## 128. Adding the Product-Delete Functionality
+
+### Intro
+
+Menambah fitur delete produk
