@@ -49,3 +49,9 @@ Membuat model keranjang
 ### Intro
 
 Menggunakan parameter query
+
+## 125. Pre-Populating the Edit Product Page with Data
+
+### Intro
+
+Menampilkan data produk pada form edit
