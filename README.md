@@ -25,3 +25,9 @@ Mengambil ID dari URL
 ### Intro
 
 Mengambil detail produk
+
+## 121. Rendering the Product Detail View
+
+### Intro
+
+Menampilkan detail produk
