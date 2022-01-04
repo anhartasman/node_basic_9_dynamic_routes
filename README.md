@@ -43,3 +43,9 @@ mempassing data dengan POST request
 ### Intro
 
 Membuat model keranjang
+
+## 124. Using Query Params
+
+### Intro
+
+Menggunakan parameter query
