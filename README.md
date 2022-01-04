@@ -79,3 +79,9 @@ Menambah fitur delete produk
 ### Intro
 
 Menghapus item belanjaan
+
+## 130. Displaying Cart Items on the Cart Page
+
+### Intro
+
+Menampilkan daftar belanjaan di halaman keranjang
