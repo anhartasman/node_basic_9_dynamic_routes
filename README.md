@@ -37,3 +37,9 @@ Menampilkan detail produk
 ### Intro
 
 mempassing data dengan POST request
+
+## 123. Adding a Cart Model
+
+### Intro
+
+Membuat model keranjang
