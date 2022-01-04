@@ -73,3 +73,9 @@ Mengubah data produk
 ### Intro
 
 Menambah fitur delete produk
+
+## 129. Deleting Cart Items
+
+### Intro
+
+Menghapus item belanjaan
