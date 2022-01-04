@@ -61,3 +61,9 @@ Menampilkan data produk pada form edit
 ### Intro
 
 Menghubungkan ke halaman edit
+
+## 127. Editing the Product Data
+
+### Intro
+
+Mengubah data produk
