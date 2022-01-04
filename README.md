@@ -85,3 +85,9 @@ Menghapus item belanjaan
 ### Intro
 
 Menampilkan daftar belanjaan di halaman keranjang
+
+## 131. Deleting Cart Items
+
+### Intro
+
+Menghapus item keranjang
