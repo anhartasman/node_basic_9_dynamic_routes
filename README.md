@@ -31,3 +31,9 @@ Mengambil detail produk
 ### Intro
 
 Menampilkan detail produk
+
+## 122. Passing Data with POST Requests
+
+### Intro
+
+mempassing data dengan POST request
