@@ -31,12 +31,15 @@ module.exports = class Cart {
   }
   static deleteProduct(id, productPrice) {
     fs.readFile(p, (err, fileContent) => {
-      const updatedCart = { ...JSON.parse(fileContent) };
-      const product = updatedCart.products.find((prod) => prod.id === id);
-      const productQty = product.qty;
       if (err) {
         return;
       }
+      const updatedCart = { ...JSON.parse(fileContent) };
+      const product = updatedCart.products.find((prod) => prod.id === id);
+      if (!product) {
+        return;
+      }
+      const productQty = product.qty;
       updatedCart.products = updatedCart.products.filter(
         (prod) => prod.id !== id
       );

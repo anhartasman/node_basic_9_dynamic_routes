@@ -91,3 +91,9 @@ Menampilkan daftar belanjaan di halaman keranjang
 ### Intro
 
 Menghapus item keranjang
+
+## 132. Fixing a Delete Product Bug
+
+### Intro
+
+Memperbaiki bug penghapusan produk
